@@ -1,0 +1,33 @@
+.jumbotron {
+    background-color:#17a2b8;
+}
+body {
+    background-image: url('bricks.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+footer{
+    background-color:#17a2b8;
+    text-align: center;
+    color: white;
+
+    padding-bottom: 8px;
+
+}
+#messageBox{
+    padding-left: 0px;
+}
+p {
+    text-align:center;
+    color:white;
+    background-color:#17a2b8;
+    padding:3px;
+}
+#trumpet{
+    margin-top:50px;
+    margin-bottom:150px;
+}
+#bio{
+    text-align:center;
+    margin-top:50px;
+}
